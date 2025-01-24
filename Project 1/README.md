@@ -8,7 +8,7 @@ This analysis explores customer segmentation using clustering techniques to grou
 
 ---
 
-## **DataSet:** https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation
+## **Data Source:** https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation
 ## **Steps Taken**
 
 ### **1. Data Preparation**
