@@ -106,7 +106,7 @@ This analysis explores customer segmentation using clustering techniques to grou
 
 ### **3. Marital Status**
 - Married customers dominate all clusters, especially Cluster 0.
-- Divorced customers consistently have the lowest representation.
+- Widowed customers consistently have the lowest representation.
 
 ### **4. Educational Level**
 - Graduates dominate in Clusters 0 and 1, while Cluster 2 is dominated by PhD holders.
