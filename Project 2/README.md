@@ -172,7 +172,7 @@ The NYC Airbnb market experienced a **downturn during the pandemic** but is like
 ---
 
 ## **Technologies Used**
-- **Python (pandas, NumPy)** → Data Cleaning & Processing
+- **Python (pandas)** → Data Cleaning & Processing
 - **Power BI** → Data Visualization
 
 ---
