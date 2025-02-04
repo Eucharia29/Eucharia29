@@ -2,4 +2,4 @@
 
 ## **Project 1** : [Customer Segmentation](https://github.com/Eucharia29/OIBSIP/tree/main/Project%201)
 ## **Project 2** : [Data cleaning and Visualization](https://github.com/Eucharia29/OIBSIP/tree/main/Project%202)
-## **Project 3** : EDA on Retail Sales
+## **Project 3** : [EDA on Retail Sales](https://github.com/Eucharia29/OIBSIP/tree/main/Project%203)
