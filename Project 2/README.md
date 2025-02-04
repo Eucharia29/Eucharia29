@@ -181,7 +181,7 @@ The NYC Airbnb market experienced a **downturn during the pandemic** but is like
 To reproduce this analysis:
 1. **Download the dataset**: `AB_NYC_2019.csv`
 2. **Run the Python cleaned script** (`AirBnB_clean`).
-3. **Import the cleaned dataset into Power BI** and recreate the visualizations.
+3. **Import the cleaned dataset into Power BI and recreate the visualizations.**
 
 ---
 
