@@ -1,5 +1,6 @@
 # Reositories containing projects done for my internship Program at Oasis Infobyte
 
+---
 ## **Project 1** : [Customer Segmentation](https://github.com/Eucharia29/OIBSIP/tree/main/Project%201)
 
 ### **Project Description:**
@@ -35,6 +36,8 @@ insights.
 - Data cleaning and exploration skills.
 - Visualization techniques for conveying insights.
 
+---
+
 ## **Project 2** : [Data cleaning and Visualization](https://github.com/Eucharia29/OIBSIP/tree/main/Project%202)
 
 ### **Project Description:**
@@ -57,6 +60,8 @@ uniqueness.
 - **Standardization:** Consistent formatting and units across the dataset for accurate analysis.
 Outlier Detection: Identifying and addressing outliers that may skew analysis or model
 performance.
+
+---
 
 ## **Project 3** : [EDA on Retail Sales](https://github.com/Eucharia29/OIBSIP/tree/main/Project%203)
 
