@@ -228,6 +228,7 @@ plt.ylabel("")
 plt.show()
 ```
 <img src="https://github.com/user-attachments/assets/ae00b521-9e78-4500-9fe8-babd9f88cfff" width="500">
+
 Cash was the most commonly used payment method, followed by credit and debit cards.  
 
 **Recommendation:**  
