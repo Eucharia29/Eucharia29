@@ -2,7 +2,7 @@
 
 ## **Project 1** : [Customer Segmentation](https://github.com/Eucharia29/OIBSIP/tree/main/Project%201)
 
-**Project Description:**
+### **Project Description:**
 
 The aim of this data analytics project is to perform customer segmentation analysis for an e-
 commerce company. By analyzing customer behavior and purchase patterns, the goal is to
@@ -11,22 +11,22 @@ strategies, improve customer satisfaction, and enhance overall business strategi
 
 ## Key Concepts and Challenges:
 
-**Data Collection:** Obtain a dataset containing customer information, purchase history, and
+- **Data Collection:** Obtain a dataset containing customer information, purchase history, and
 relevant data.
 
-**Data Exploration and Cleaning:** Explore the dataset, understand its structure, and handle
+- **Data Exploration and Cleaning:** Explore the dataset, understand its structure, and handle
 any missing or inconsistent data.
 
-**Descriptive Statistics:** Calculate key metrics such as average purchase value, frequency of
+- **Descriptive Statistics:** Calculate key metrics such as average purchase value, frequency of
 purchases, etc.
 
-**Customer Segmentation:** Utilize clustering algorithms (e.g., K-means) to segment
+- **Customer Segmentation:** Utilize clustering algorithms (e.g., K-means) to segment
 customers based on behavior and purchase patterns.
 
-**Visualization:** Create visualizations (e.g., scatter plots, bar charts) to illustrate customer
+- **Visualization:** Create visualizations (e.g., scatter plots, bar charts) to illustrate customer
 segments.
 
-**Insights and Recommendations:** Analyze characteristics of each segment and provide
+- **Insights and Recommendations:** Analyze characteristics of each segment and provide
 insights.
 
 ## Learning Objectives:
@@ -37,31 +37,30 @@ insights.
 
 ## **Project 2** : [Data cleaning and Visualization](https://github.com/Eucharia29/OIBSIP/tree/main/Project%202)
 
-**Project Description:**
+### **Project Description:**
 
 Data cleaning is the process of fixing or removing incorrect, corrupted, duplicate, or incomplete
 data within a dataset. Messy data leads to unreliable outcomes. Cleaning data is an essential
-part of data analysis, and demonstrating your data cleaning skills is key to landing a job. Here
-are some projects to test out your data cleaning skills: 
+part of data analysis, and demonstrating your data cleaning skills is key to landing a job. 
 
 ## Key Concepts and Challenges:
 
-**Data Integrity:** Ensuring the accuracy, consistency, and reliability of data throughout the
+- **Data Integrity:** Ensuring the accuracy, consistency, and reliability of data throughout the
 cleaning process.
 
-**Missing Data Handling:** Dealing with missing values by either imputing them or making
+- **Missing Data Handling:** Dealing with missing values by either imputing them or making
 informed decisions on how to handle gaps in the dataset.
 
-**Duplicate Removal:** Identifying and eliminating duplicate records to maintain data
+- **Duplicate Removal:** Identifying and eliminating duplicate records to maintain data
 uniqueness.
 
-**Standardization:** Consistent formatting and units across the dataset for accurate analysis.
+- **Standardization:** Consistent formatting and units across the dataset for accurate analysis.
 Outlier Detection: Identifying and addressing outliers that may skew analysis or model
 performance.
 
 ## **Project 3** : [EDA on Retail Sales](https://github.com/Eucharia29/OIBSIP/tree/main/Project%203)
 
-**Project Description:**
+### **Project Description:**
 
 In this project, I worked with a dataset containing information about retail sales. The goal was
 to perform exploratory data analysis (EDA) to uncover patterns, trends, and insights that can
@@ -69,17 +68,17 @@ help the retail business make informed decisions.
 
 ## Key Concepts and Challenges:
 
-**Data Loading and Cleaning:** Load the retail sales dataset.
+- **Data Loading and Cleaning:** Load the retail sales dataset.
 
-**Descriptive Statistics:** Calculate basic statistics (mean, median, mode, standard deviation).
+- **Descriptive Statistics:** Calculate basic statistics (mean, median, mode, standard deviation).
 
-**Time Series Analysis:** Analyze sales trends over time using time series techniques.
+- **Time Series Analysis:** Analyze sales trends over time using time series techniques.
 
-**Customer and Product Analysis:** Analyze customer demographics and purchasing behavior.
+- **Customer and Product Analysis:** Analyze customer demographics and purchasing behavior.
 
-**Visualization:** Present insights through bar charts, line plots, and heatmaps.
+- **Visualization:** Present insights through bar charts, line plots, and heatmaps.
 
-**Recommendations:** Provide actionable recommendations based on the EDA.
+- **Recommendations:** Provide actionable recommendations based on the EDA.
 
 
 ## Learning Objectives:
