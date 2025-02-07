@@ -17,7 +17,8 @@ This project leverages time series techniques to understand sales patterns over 
 - `category` – Product category  
 - `price` – Price per item  
 - `quantity` – Quantity of items purchased  
-- `payment_method` – Payment mode used  
+- `payment_method` – Payment mode used
+  
 **Source:** [Link](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)  
 ---
 ## **1. Data Loading and Cleaning**  
