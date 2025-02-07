@@ -244,6 +244,7 @@ Cash was the most commonly used payment method, followed by credit and debit car
 ---
 ## **Conclusion**  
 This analysis provided valuable insights into retail sales data, highlighting key trends, customer behaviors, and product performance. Further investigation is recommended to resolve data anomalies and optimize business strategies.  
+
 ---
 ## **Code and Libraries Used**  
 - Pandas  
