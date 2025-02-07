@@ -78,7 +78,7 @@ plt.title("Monthly Sales Trend")
 plt.grid(True)  
 plt.show()
 ```
-<img src = "(https://github.com/user-attachments/assets/891af31b-5bdd-43eb-8fcc-8f76521f7a06)" width="500">
+<img src="https://github.com/user-attachments/assets/891af31b-5bdd-43eb-8fcc-8f76521f7a06" width="500">
 
 The sales trend analysis revealed a concerning sharp decline in sales towards the end of the observed period (late 2022 and early 2023). This decline is a critical issue that requires immediate attention from the retail business.
 
