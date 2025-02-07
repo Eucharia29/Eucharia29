@@ -77,7 +77,7 @@ df[‘latitude’] = pd.numeric(df[‘latitude’], errors =‘coerce’)
 ```
 
 ### **3. Removing Unwanted Characters**
-Some columns contained non-ASCII characters, which we removed:
+Some columns contained non-ASCII characters, which I removed:
 
 ![Image](https://github.com/user-attachments/assets/fa72eb9c-9e72-4ad1-b273-1eee84af2793)
 
