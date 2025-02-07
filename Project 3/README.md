@@ -97,7 +97,7 @@ plt.figure(figure=(10,80))
 decomposition.plot()
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/d16d9656-abd2-4069-9e7e-a80273555a5a)
+<img src="https://github.com/user-attachments/assets/d16d9656-abd2-4069-9e7e-a80273555a5a" width="500">
 
 The decomposition suggests that the sharp decline in sales is primarily due to irregular factors rather than seasonality or long-term trends.  
 
@@ -121,7 +121,7 @@ axes[1].set_title("PACF (Partial Autocorrelatio)")
 plt.tight_layout()
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/0207d2b7-a3a9-4069-8215-1ef00287ea2a)
+<img src="https://github.com/user-attachments/assets/0207d2b7-a3a9-4069-8215-1ef00287ea2a" width="500">
 
 
 ### **ACF (Autocorrelation Function) Plot**
@@ -156,7 +156,7 @@ plt.legend()
 plt.grid()
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/8a728d79-1ded-43bc-8604-261c9a5aca79)
+<img src="https://github.com/user-attachments/assets/8a728d79-1ded-43bc-8604-261c9a5aca79" width="500">
 
 1. **Actual Sales (Blue Line with X markers)**
 - Represents the historical sales data over time.
@@ -184,7 +184,7 @@ plt.ylabel("Frequency")
 plt.title("Customer Age Distribution")  
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/4ed2659d-0cda-44e3-b0b8-7a8e28988269)
+<img src="https://github.com/user-attachments/assets/4ed2659d-0cda-44e3-b0b8-7a8e28988269" width="500">
 **Recommendation:** 
 
 The retail business can leverage this information to tailor marketing campaigns and product offerings to specific age segments within their customer base.
@@ -210,7 +210,7 @@ plt.title('Product Category Distribution')
 plt.xticks(rotation=45)
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/4d53033c-d7a8-454c-a8f4-eb0bf937fc23)
+<img src="https://github.com/user-attachments/assets/4d53033c-d7a8-454c-a8f4-eb0bf937fc23" width="500">
 The "Clothing" category emerged as the best-selling category, followed by "Cosmetics" and "Food & Beverage."
 
 **Recommendation:**  
@@ -227,7 +227,7 @@ plt.title("Distribution of Payment Methods")
 plt.ylabel("")  
 plt.show()
 ```
-![Image](https://github.com/user-attachments/assets/ae00b521-9e78-4500-9fe8-babd9f88cfff)
+<img src="https://github.com/user-attachments/assets/ae00b521-9e78-4500-9fe8-babd9f88cfff" widyh="500">
 Cash was the most commonly used payment method, followed by credit and debit cards.  
 
 **Recommendation:**  
